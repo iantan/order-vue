@@ -1,4 +1,4 @@
-# ntropio-pos
+# order-vue
 
 ## Project setup
 ```
