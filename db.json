@@ -1,0 +1,110 @@
+{
+  "menu": [
+    {
+      "group": "Pizza",
+      "items": [
+        {
+          "name": "Margherita",
+          "description": "Tomato Sauce, Kesong Puti, Basil",
+          "price": 280,
+          "id": "1",
+          "addons": [
+            {
+              "name": "Parmigiano Reggiano",
+              "price": 55,
+              "id": "1"
+            },
+            {
+              "name": "Egg",
+              "price": 15,
+              "id": "2"
+            },
+            {
+              "name": "Gouda",
+              "price": 55,
+              "id": "3"
+            },
+            {
+              "name": "Blue Cheese",
+              "price": 25,
+              "id": "4"
+            }
+          ]
+        },
+        {
+          "name": "Arugula",
+          "description": "Tomato Sauce, Kesong Puti, Cream, Arugula",
+          "price": 290,
+          "id": "2",
+          "addons": [
+            {
+              "name": "Parmigiano Reggiano",
+              "price": 55,
+              "id": "1"
+            },
+            {
+              "name": "Egg",
+              "price": 15,
+              "id": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Appetizers",
+      "items": [
+        {
+          "name": "Arugula",
+          "description": "",
+          "price": 280,
+          "id": "1",
+          "addons": [
+            {
+              "name": "Parmigiano Reggiano",
+              "price": 55,
+              "id": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Pasta",
+      "items": [
+        {
+          "name": "Tomato Basil",
+          "description": "",
+          "price": 190,
+          "id": "1",
+          "addons": [
+            {
+              "name": "Parmigiano Reggiano",
+              "price": 55,
+              "id": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Beverage",
+      "items": [
+        {
+          "name": "Softdrinks",
+          "description": "",
+          "price": 50,
+          "id": "1",
+          "addons": []
+        },
+        {
+          "name": "Iced Tea (Pitcher)",
+          "description": "",
+          "price": 120,
+          "id": "2",
+          "addons": []
+        }
+      ]
+    }
+  ]
+}
